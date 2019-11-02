@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const mongoDB = "mongodb+srv://minotad66:tisuca66@cluster0-mu7nr.mongodb.net/test?retryWrites=true&w=majority"
+const mongoDB = "mongodb+srv://minotad66:tisuca66@cluster0-mu7nr.mongodb.net/nailu?retryWrites=true&w=majority"
 
 const { Tareas } = require("./Tareas");
 
